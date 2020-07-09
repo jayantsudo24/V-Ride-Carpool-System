@@ -9,6 +9,7 @@ To create a comprehensive app system for providing car-pooling services to the u
 The main objective to solve is to build a service that provides seamless experience to the user byenabling for both web and mobile apps to improve
 the customer base and further enhance the experience.
 
-Further developmenton the project is ongoing currently, and will be updated soon in this github repository.
+Further developmenton the project is ongoing currently, and will be pushed and updated soon in this github repository.
+Thanks for reading. Meanwhile we would love to get feedbacks and query on the case-study.
 
 
