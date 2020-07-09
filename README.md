@@ -10,6 +10,7 @@ The main objective to solve is to build a service that provides seamless experie
 the customer base and further enhance the experience.
 
 Further developmenton the project is ongoing currently, and will be pushed and updated soon in this github repository.
-Thanks for reading. Meanwhile we would love to get feedbacks and query on the case-study.
+Meanwhile we would love to get feedbacks and query on the case-study.
+Thanks for reading. 
 
 
